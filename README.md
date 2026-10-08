@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="Screenshot 2026-10-08 182515" src="https://github.com/user-attachments/assets/2fe50399-900c-45ee-aad0-f496646bad0a" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-08 182500" src="https://github.com/user-attachments/assets/2de7d84e-f624-47ee-9292-8fb5f3ae8c49" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-08 182435" src="https://github.com/user-attachments/assets/1f7db2b7-16ee-40f1-9e50-c06773e027ed" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-08 182333" src="https://github.com/user-attachments/assets/3b037c14-b584-406e-b682-67ff0b25a889" />
 # TugasWeb-Pertemuan8-CRUD — CRUD Inventaris
 
 Tugas Rutin 8 · Pemrograman Web (3KOM40115) · FMIPA UNIMED
