@@ -62,16 +62,5 @@ TugasWeb-Pertemuan8-CRUD/
 └── delete.php            # DELETE (transaction)
 ```
 
-## Screenshot
-> Tambahkan screenshot setelah aplikasi dijalankan (simpan di folder `screenshots/`):
 
-| Daftar Produk | Tambah Produk |
-|---|---|
-| ![list](Screenshot 2026-10-08 182333.png) | ![create](Screenshot 2026-10-08 182435.png) |
-
-| Edit Produk | Hapus / Flash Message |
-|---|---|
-| ![edit](Screenshot 2026-10-08 182500.png) | ![delete](Screenshot 2026-10-08 182515.png) |
-
----
-Dibuat oleh: **<MUHAMMAD HAFAZ BAIHAQI> — <4253550001>**
+Dibuat oleh: Muhammad Hafaz Baihaqi (4253550001)
